@@ -7,6 +7,7 @@ Alex is a young enterprenuer who is out to assemble his own football team to ent
 Alas, for all the money in the world, he can't find a decent programmer to help him with this task. He's designed the front-end of the application and it looks great. He needs **YOU** to help him code the functionalities in the back-end though. Go to the `src/app.js` file and complete all the unfinished code to propel this young man's football dream.
 
 ## What should you do
+
 ```
 Fork this repo
 Clone this repo
@@ -14,6 +15,7 @@ Practice JavaScript Basics - Operators, Conditions, Loops
 ```
 
 ## How To Submit
+
 ```
 Upon completion, run the following commands:
 
